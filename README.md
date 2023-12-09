@@ -1,4 +1,4 @@
-# Quickshell_Frontend_Assignment
+# Quicksell_Frontend_Assignment
 KanBan Board
 ## Overview
 
